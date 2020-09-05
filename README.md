@@ -25,3 +25,7 @@
 `💩` A comfortable and relaxed work environment.
 
 `💩` Free tea, coffee and cookies.
+
+`💩` An *exciting opportunity* has arisen for an *enthusiastic and passionate* individual 
+
+`💩` *a hugely talented development team** that shapes the future of...

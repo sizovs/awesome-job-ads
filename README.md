@@ -30,7 +30,7 @@
 
 `💩` An *exciting opportunity* has arisen for an *enthusiastic and passionate* individual 
 
-`💩` *a hugely talented development team* that shapes the future of...
+`💩` *A hugely talented development team* that shapes the future of...
 
 `💩` We're looking for a **highly talented** front-end developer to join contribute to our **dynamic Agile environment**. 
 

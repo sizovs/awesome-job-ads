@@ -2,6 +2,8 @@
 
 # Vague statements that fail to pass the bullshit test:
 
+![Bullsit detector at the maximum level](bullshit.gif)
+
 `💩` Our purpose - build things that matter!
 
 `💩` We don’t need long cover letters explaining why you’re the right person for the job - *we already know you are!*

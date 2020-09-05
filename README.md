@@ -29,3 +29,7 @@
 `💩` An *exciting opportunity* has arisen for an *enthusiastic and passionate* individual 
 
 `💩` *a hugely talented development team* that shapes the future of...
+
+`💩` We're looking for a **highly talented** front-end developer to join contribute to our **dynamic Agile environment**. 
+
+`💩` You will be expected to *align with our front-end processes and those of the wider organisational strategy, driving continuous improvement efforts and inspiring the team to technically innovate and improve their standards.*

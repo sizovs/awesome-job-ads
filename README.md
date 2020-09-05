@@ -20,7 +20,7 @@
 
 `💩` Opportunities to travel.
 
-`💩`Opportunities to work from home.
+`💩` Opportunities to work from home.
 
 `💩` The option to work out of our London or Riga offices.
 

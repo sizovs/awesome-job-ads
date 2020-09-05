@@ -1,6 +1,6 @@
 # awesome-job-ads
 
-# Vague statements that fail to pass the bullshit test:
+# Vague statements that fail the bullshit detector test
 
 ![Bullsit detector at the maximum level](bullshit.gif)
 

@@ -14,6 +14,12 @@
 
 `💩` Incredibly fun colleagues
 
+`💩` We offer valuable knowledge and excellent experience for future development
+
+`💩` An opportunity to grow professionally in a healthy and positive environment
+
+`💩` Regular entertainment and epic team building events
+
 `💩` Super fun projects - web apps, mobile apps, internal systems
 
 `💩` A competitive and stable salary.

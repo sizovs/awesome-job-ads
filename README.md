@@ -8,6 +8,10 @@
 
 `💩` We don’t need long cover letters explaining why you’re the right person for the job - *we already know you are!*
 
+`💩` Yes, you are Senior, but, if you want to advance further, you need to become an empty glass again, or, at least, a half-full one
+
+`💩` We want to provide the BEST service for our clients, so we need the BEST people! 
+
 `💩` Incredibly fun colleagues
 
 `💩` Super fun projects - web apps, mobile apps, internal systems

@@ -30,6 +30,8 @@
 
 `💩` A comfortable and relaxed work environment.
 
+`💩` New and exciting projects.
+
 `💩` Free tea, coffee and cookies.
 
 `💩` An *exciting opportunity* has arisen for an *enthusiastic and passionate* individual 

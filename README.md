@@ -14,6 +14,8 @@
 
 `💩` Incredibly fun colleagues
 
+`💩` Have we sparked your interest? Then apply now and join our *top-level professional team*! WE GROW FAST, GROW WITH US!
+
 `💩` We offer valuable knowledge and excellent experience for future development
 
 `💩` An opportunity to grow professionally in a healthy and positive environment
